@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Aniket 👋<br>I’m a Full-Stack Developer and Computer Science graduate passionate about building scalable web applications and APIs using technologies like React.js, Next.js, Node.js, Express.js, Elixir, and PostgreSQL/MongoDB. I enjoy solving real-world problems, working across the entire software stack, and writing clean, efficient code.
+Hi, I’m Aniket 👋<br>I’m a Full-Stack Developer and Computer Science graduate passionate about building scalable web applications and APIs using technologies like React.js, Next.js, Node.js, Express.js, Elixir, and SQL/MongoDB. I enjoy solving real-world problems, working across the entire software stack, and writing clean, efficient code.
 
 
 ## 🌐 Socials:
